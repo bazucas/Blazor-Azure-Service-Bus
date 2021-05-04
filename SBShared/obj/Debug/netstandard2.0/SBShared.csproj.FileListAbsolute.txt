@@ -1,0 +1,9 @@
+C:\Users\Luis\Desktop\Azure Service Bus\SBShared\bin\Debug\netstandard2.0\SBShared.deps.json
+C:\Users\Luis\Desktop\Azure Service Bus\SBShared\bin\Debug\netstandard2.0\SBShared.dll
+C:\Users\Luis\Desktop\Azure Service Bus\SBShared\bin\Debug\netstandard2.0\SBShared.pdb
+C:\Users\Luis\Desktop\Azure Service Bus\SBShared\obj\Debug\netstandard2.0\SBShared.csprojAssemblyReference.cache
+C:\Users\Luis\Desktop\Azure Service Bus\SBShared\obj\Debug\netstandard2.0\SBShared.AssemblyInfoInputs.cache
+C:\Users\Luis\Desktop\Azure Service Bus\SBShared\obj\Debug\netstandard2.0\SBShared.AssemblyInfo.cs
+C:\Users\Luis\Desktop\Azure Service Bus\SBShared\obj\Debug\netstandard2.0\SBShared.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\Azure Service Bus\SBShared\obj\Debug\netstandard2.0\SBShared.dll
+C:\Users\Luis\Desktop\Azure Service Bus\SBShared\obj\Debug\netstandard2.0\SBShared.pdb
